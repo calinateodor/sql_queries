@@ -1,7 +1,7 @@
-#Cohorts in PSQL
+# Cohorts in PSQL
 PSQL example implementation of 3 different cohorts, using FinTech transaction data as basis.  
 
-##Content
+## Content
 * `day.sql` 
     * generates a day table  
     * has nicely formatted columns for months and weeks which make the other queries less complex  
