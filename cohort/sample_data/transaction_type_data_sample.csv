@@ -1,0 +1,5 @@
+1,foreign_merchant_fee,,0.015
+2,outgoing_standard_payment,30,
+3,outgoing_express_payment,60,
+4,outgoing_internaltional_payment,90,
+5,incoming_express_payment,15,
